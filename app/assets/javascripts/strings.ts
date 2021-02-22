@@ -124,4 +124,6 @@ export const Strings = {
         : 'password manager';
     return `Your keys are currently stored in your operating system's ${keychainName}. Adding a passcode prevents even your operating system from reading them.`;
   },
+  protectingNoteWithoutProtectionSources: 'Access to this note will not be restricted until you set a passcode.',
+  openAccountMenu: 'Open Account Menu'
 };
